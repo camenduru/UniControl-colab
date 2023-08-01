@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/UniControl-colab/blob/main/UniControl_colab.ipynb) | UniControl_colab
 
 ## Main Repo
-https://github.com/salesforce/UniControl
-https://huggingface.co/spaces/Robert001/UniControl-Demo/tree/main
+https://github.com/salesforce/UniControl <br />
+https://huggingface.co/spaces/Robert001/UniControl-Demo/tree/main <br />
 
 ## Page
 https://canqin001.github.io/UniControl-Page/
