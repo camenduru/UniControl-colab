@@ -17,3 +17,6 @@ https://canqin001.github.io/UniControl-Page/
 
 ## Paper
 https://arxiv.org/abs/2305.11147
+
+## Output
+![Screenshot 2023-08-01 214610](https://github.com/camenduru/UniControl-colab/assets/54370274/1c17dd87-d4e2-404d-8a99-bf0581644726)
